@@ -1,4 +1,4 @@
-# S15-COMPONENTE-PR-CTICO-2
+# S15-COMPONENTE-PRACTICO-2
 Componente práctico de examen 2
 
 Desarrollar en Pseint un programa en el que se crea un arreglo tipo entero de 100 elementos.
